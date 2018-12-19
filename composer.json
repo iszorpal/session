@@ -11,7 +11,8 @@
         "phpunit/phpunit": "^7.5"
     },
     "suggest": {
-        "catfan/Medoo": "To use the database session handler."
+        "catfan/Medoo": "To use the database session handler.",
+        "iszorpal/crypt": "To encrypt your php sessions."
     },
     "autoload": {
         "psr-4": {
