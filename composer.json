@@ -12,7 +12,7 @@
     },
     "suggest": {
         "catfan/Medoo": "To use the database session handler."
-    }
+    },
     "autoload": {
         "psr-4": {
             "Viper\\": "./src"
